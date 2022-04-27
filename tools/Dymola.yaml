@@ -48,12 +48,13 @@ FMI import:
     - initialization
     - event handling
     - stiff problem
-    - Clocks
     - source code FMU
     - connected FMUs
     - initialization
     - event handling
     - Scheduled Execution
+  other: # can be updated by others
+    - SimulatioX 2022, FMI 3.0 CS, FullRobot.fmu (https://github.com/ESI-ITI/SimulationX-example-FMUs/2022/FullRobot.fmu)
 FMI export:
   FMI versions: 1.0, 2.0, 3.0
   FMI types: CS, ME, SE
