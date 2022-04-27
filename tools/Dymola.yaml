@@ -40,7 +40,7 @@ FMI import:
     - Binary FMUs for non-Desktop Platforms
   challenges:
     - I/O performance 
-    - data types 
+    - data types (Reference FMUs)
     - connected FMUs (Dymola, Controlled Drivetrain Example)
     - Clocks (Synopsys)
     - source code FMU (MapleSoft, Altaire Activate)
