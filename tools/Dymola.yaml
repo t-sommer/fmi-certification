@@ -19,12 +19,12 @@ FMI import:
     - Binary Data Type Input/Output
     - Binary Data Type Parameters
     - New Integer Types
-    - Fixed-size Arrays
-    - Dynamically resizable Arrays
-    - Resizable Arrays with Size-Dependencies
-    - Fixed-size Arrays
-    - Dynamically resizable Arrays
-    - Resizable Arrays with Size-Dependencies
+    - Fixed-size Input/Output Arrays
+    - Dynamically resizable Input/Output Arrays
+    - Resizable Input/Output Arrays with Size-Dependencies
+    - Fixed-size parameter Arrays
+    - Dynamically resizable parameter Arrays
+    - Resizable parameter Arrays with Size-Dependencies
     - Variable Co-Simulation Communication Step Size
     - State and Output Dependencies
     - Output Derivatives in Co-Simulation
