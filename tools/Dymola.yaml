@@ -41,18 +41,16 @@ FMI import:
   challenges:
     - I/O performance 
     - data types 
-    - connected FMUs
-    - Clocks
-    - source code FMU
-    - tunable parameters
+    - connected FMUs (Dymola, Controlled Drivetrain Example)
+    - Clocks (Synopsys)
+    - source code FMU (MapleSoft, Altaire Activate)
+    - tunable parameters 
     - initialization
     - event handling
     - stiff problem
-    - source code FMU
-    - connected FMUs
     - initialization
-    - event handling
-    - Scheduled Execution
+    - event handling (Reference FMUs)
+    - Scheduled Execution (dSPACE)
   other: # can be updated by others
     - SimulatioX 2022, FMI 3.0 CS, FullRobot.fmu (https://github.com/ESI-ITI/SimulationX-example-FMUs/2022/FullRobot.fmu)
 FMI export:
