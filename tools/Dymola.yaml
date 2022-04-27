@@ -1,0 +1,91 @@
+# comment
+
+name: Dymola
+version: 2022x
+vendor: Dassault Systèmes SE
+description: Modelica environment from Dassault Systèmes
+website: https://dymola.com/
+user interface: GUI, scriptable
+platforms: Linux, Windows, macOS, C
+license: commercial 
+FMI import:
+  FMI versions: 1.0, 2.0, 3.0
+  FMI types: CS, ME, SE
+  features:
+    - Tunable Parameters
+    - Store/Restore FMU State
+    - Serialize/Deserialize FMU State
+    - String Inputs/Outputs
+    - Binary Data Type Input/Output
+    - Binary Data Type Parameters
+    - New Integer Types
+    - Fixed-size Arrays
+    - Dynamically resizable Arrays
+    - Resizable Arrays with Size-Dependencies
+    - Fixed-size Arrays
+    - Dynamically resizable Arrays
+    - Resizable Arrays with Size-Dependencies
+    - Variable Co-Simulation Communication Step Size
+    - State and Output Dependencies
+    - Output Derivatives in Co-Simulation
+    - Directional Derivatives
+    - Adjoint Derivatives
+    - Restartable Early Return in Hybrid Co-Simulation
+    - Intermediate Output Values in Co-Simulation
+    - Co-Simulation with Clock Information
+    - Scheduled Execution Interface
+    - Clocked Model-Exchange
+    - Source Code FMUs
+    - Binary FMUs for Desktop Platforms
+    - Binary FMUs for non-Desktop Platforms
+  challenges:
+    - I/O performance 
+    - data types 
+    - connected FMUs
+    - Clocks
+    - source code FMU
+    - tunable parameters
+    - initialization
+    - event handling
+    - stiff problem
+    - Clocks
+    - source code FMU
+    - connected FMUs
+    - initialization
+    - event handling
+    - Scheduled Execution
+FMI export:
+  FMI versions: 1.0, 2.0, 3.0
+  FMI types: CS, ME, SE
+  features:
+    - Tunable Parameters
+    - Store/Restore FMU State
+    - Serialize/Deserialize FMU State
+    - String Inputs/Outputs
+    - Binary Data Type Input/Output
+    - Binary Data Type Parameters
+    - New Integer Types
+    - Fixed-size Arrays
+    - Dynamically resizable Arrays
+    - Resizable Arrays with Size-Dependencies
+    - Fixed-size Arrays
+    - Dynamically resizable Arrays
+    - Resizable Arrays with Size-Dependencies
+    - Variable Co-Simulation Communication Step Size
+    - State and Output Dependencies
+    - Output Derivatives in Co-Simulation
+    - Directional Derivatives
+    - Adjoint Derivatives
+    - Restartable Early Return in Hybrid Co-Simulation
+    - Intermediate Output Values in Co-Simulation
+    - Co-Simulation with Clock Information
+    - Scheduled Execution Interface
+    - Clocked Model-Exchange
+    - Source Code FMUs
+    - Binary FMUs for Desktop Platforms
+    - Binary FMUs for non-Desktop Platforms
+  examples:
+    - https://github.com/CATIA-Systems/Dymola-example-FMUs/ # with fixed structure
+  tested with: # can be updated by others
+    - MATLAB R2018b and R2022a
+    - FMPy 0.3.7
