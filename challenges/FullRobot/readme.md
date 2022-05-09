@@ -1,0 +1,3 @@
+# FullRobot
+
+Simulate FullRobot.fmu.
