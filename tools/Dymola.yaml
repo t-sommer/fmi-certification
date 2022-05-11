@@ -42,7 +42,7 @@ FMI import:
     - I/O performance (Reference FMUs, Feedthrough)
     - data types (Reference FMUs, Feedthrough)
     - connected FMUs (Dymola, Controlled Drivetrain Example)
-    - Clocks (Synopsys)
+    - Clocks (Bosch/ETAS)
     - source code FMU (MapleSoft, Altaire Activate)
     - tunable parameters (Dymola)
     - initialization (Dymola, Karl will provide an example)
