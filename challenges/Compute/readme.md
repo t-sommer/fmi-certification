@@ -22,7 +22,7 @@
 - y_1 = 17
 - y_2 = 42
  
-<img src="before_setting_tunable_parameter.png.png" alt="Results before setting shift tunable parameter" width="100%"/>
+<img src="before_setting_tunable_parameter.png" alt="Results before setting shift tunable parameter" width="100%"/>
 
 #### Set shift = 50
 #### Simulate again the FMU.
@@ -31,4 +31,4 @@
 - y_1 = 17
 - y_2 = 42
 
-<img src="after_setting_tunable_parameter.png.png" alt="Results after setting shift tunable parameter" width="100%"/> 
+<img src="after_setting_tunable_parameter.png" alt="Results after setting shift tunable parameter" width="100%"/> 
